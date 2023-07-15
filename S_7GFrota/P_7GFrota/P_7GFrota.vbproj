@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{4B5586C7-0432-4AF2-894F-CA7B3B6F1EBC}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <MyType>WindowsForms</MyType>
+    <RootNamespace>P_7GFrota</RootNamespace>
+    <AssemblyName>P_7GFrota</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <OptionInfer>On</OptionInfer>
+    <StartupObject>P_7GFrota.My.MyApplication</StartupObject>
+    <NoWin32Manifest>False</NoWin32Manifest>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <DefineConstants>DEBUG=1,TRACE=1</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <DefineConstants>TRACE=1</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CAD\CadCategorias.vb" />
+    <Compile Include="CAD\CadClientes.vb" />
+    <Compile Include="CAD\CadCompras.vb" />
+    <Compile Include="CAD\CadFormaPagamento.vb" />
+    <Compile Include="CAD\CadFornecedores.vb" />
+    <Compile Include="CAD\CadPDV.vb" />
+    <Compile Include="CAD\CadProdFor.vb" />
+    <Compile Include="CAD\CadProdutos.vb" />
+    <Compile Include="CAD\CL_Conexao.vb" />
+    <Compile Include="Class1.vb" />
+    <Compile Include="Entidades\EntCategorias.vb" />
+    <Compile Include="Entidades\EntClientes.vb" />
+    <Compile Include="Entidades\EntCompras.vb" />
+    <Compile Include="Entidades\EntFormaPagamento.vb" />
+    <Compile Include="Entidades\EntFornecedores.vb" />
+    <Compile Include="Entidades\EntPDV.vb" />
+    <Compile Include="Entidades\EntProdFor.vb" />
+    <Compile Include="Entidades\EntProdutos.vb" />
+    <Compile Include="FormModelo\FormFuncionario.Designer.vb">
+      <DependentUpon>FormFuncionario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormModelo\FormFuncionario.vb" />
+    <Compile Include="Formularios\FormClientes.Designer.vb">
+      <DependentUpon>FormClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormClientes.vb" />
+    <Compile Include="Formularios\FormCompras.Designer.vb">
+      <DependentUpon>FormCompras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormCompras.vb" />
+    <Compile Include="Formularios\FormCotacao.Designer.vb">
+      <DependentUpon>FormCotacao.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormCotacao.vb" />
+    <Compile Include="Formularios\FormEstoque.Designer.vb">
+      <DependentUpon>FormEstoque.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormEstoque.vb" />
+    <Compile Include="Formularios\FormFormaPagamento.Designer.vb">
+      <DependentUpon>FormFormaPagamento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormFormaPagamento.vb" />
+    <Compile Include="Formularios\FormFornecedores.Designer.vb">
+      <DependentUpon>FormFornecedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormFornecedores.vb" />
+    <Compile Include="Formularios\FormCategorias.Designer.vb">
+      <DependentUpon>FormCategorias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormCategorias.vb" />
+    <Compile Include="Formularios\FormOrcamento.Designer.vb">
+      <DependentUpon>FormOrcamento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormOrcamento.vb" />
+    <Compile Include="Formularios\FormPDV.Designer.vb">
+      <DependentUpon>FormPDV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormPDV.vb" />
+    <Compile Include="Formularios\FormPreVenda.Designer.vb">
+      <DependentUpon>FormPreVenda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormPreVenda.vb" />
+    <Compile Include="Formularios\FormProdutos.Designer.vb">
+      <DependentUpon>FormProdutos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormProdutos.vb" />
+    <Compile Include="Formularios\FormRelatorioCompras.Designer.vb">
+      <DependentUpon>FormRelatorioCompras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormRelatorioCompras.vb" />
+    <Compile Include="Formularios\FormRelatorioComprasDetalhe.Designer.vb">
+      <DependentUpon>FormRelatorioComprasDetalhe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormRelatorioComprasDetalhe.vb" />
+    <Compile Include="Formularios\FormRelatorioVendas.Designer.vb">
+      <DependentUpon>FormRelatorioVendas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormRelatorioVendas.vb" />
+    <Compile Include="Formularios\FormRelatorioVendas_Status.Designer.vb">
+      <DependentUpon>FormRelatorioVendas_Status.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormRelatorioVendas_Status.vb" />
+    <Compile Include="Formularios\FormVendas.Designer.vb">
+      <DependentUpon>FormVendas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormVendas.vb" />
+    <Compile Include="Formularios\MainForm.Designer.vb">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\MainForm.vb" />
+    <Compile Include="Program.vb" />
+    <Compile Include="Properties\AssemblyInfo.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormModelo\FormFuncionario.resx">
+      <DependentUpon>FormFuncionario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormClientes.resx">
+      <DependentUpon>FormClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormCompras.resx">
+      <DependentUpon>FormCompras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormCotacao.resx">
+      <DependentUpon>FormCotacao.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormEstoque.resx">
+      <DependentUpon>FormEstoque.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormFormaPagamento.resx">
+      <DependentUpon>FormFormaPagamento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormFornecedores.resx">
+      <DependentUpon>FormFornecedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormCategorias.resx">
+      <DependentUpon>FormCategorias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormOrcamento.resx">
+      <DependentUpon>FormOrcamento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormPDV.resx">
+      <DependentUpon>FormPDV.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormPreVenda.resx">
+      <DependentUpon>FormPreVenda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormProdutos.resx">
+      <DependentUpon>FormProdutos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormRelatorioCompras.resx">
+      <DependentUpon>FormRelatorioCompras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormRelatorioComprasDetalhe.resx">
+      <DependentUpon>FormRelatorioComprasDetalhe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormRelatorioVendas.resx">
+      <DependentUpon>FormRelatorioVendas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormRelatorioVendas_Status.resx">
+      <DependentUpon>FormRelatorioVendas_Status.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormVendas.resx">
+      <DependentUpon>FormVendas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\MainForm.resx">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="FormModelo" />
+    <Folder Include="Entidades" />
+    <Folder Include="Formularios" />
+    <Folder Include="CAD" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Settings1.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

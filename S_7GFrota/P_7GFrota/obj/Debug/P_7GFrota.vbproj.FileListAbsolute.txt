@@ -1,0 +1,126 @@
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\bin\Debug\P_7GFrota.exe
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\bin\Debug\P_7GFrota.pdb
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormFuncionario.resources
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormClientes.resources
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormCompras.resources
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormEstoque.resources
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormFormaPagamento.resources
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormFornecedores.resources
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormCategorias.resources
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormOrcamento.resources
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormPDV.resources
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormPreVenda.resources
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormProdutos.resources
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormRelatorioCompras.resources
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormRelatorioComprasDetalhe.resources
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormVendas.resources
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.MainForm.resources
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.exe
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.pdb
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\GenerateResource.read.4.tlog
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\bin\Debug\P_7GFrota.exe
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\bin\Debug\P_7GFrota.pdb
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormFuncionario.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormClientes.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormCompras.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormEstoque.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormFormaPagamento.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormFornecedores.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormCategorias.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormOrcamento.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormPDV.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormPreVenda.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormProdutos.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormRelatorioCompras.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormRelatorioComprasDetalhe.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormVendas.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.MainForm.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\GenerateResource.read.4.tlog
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.exe
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.pdb
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormCotacao.resources
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormCotacao.resources
+C:\Documents and Settings\Administrador\Meus documentos\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormRelatorioVendas_Status.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormRelatorioVendas_Status.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\bin\Debug\P_7GFrota.exe
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\bin\Debug\P_7GFrota.pdb
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormFuncionario.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormClientes.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormCompras.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormCotacao.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormEstoque.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormFormaPagamento.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormFornecedores.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormCategorias.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormOrcamento.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormPDV.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormPreVenda.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormProdutos.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormRelatorioCompras.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormRelatorioComprasDetalhe.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormRelatorioVendas_Status.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormVendas.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.MainForm.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\GenerateResource.read.4.tlog
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.exe
+C:\Users\adilson\Documents\SharpDevelop Projects\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.pdb
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\bin\Debug\P_7GFrota.exe
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\bin\Debug\P_7GFrota.pdb
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormFuncionario.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormClientes.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormCompras.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormCotacao.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormEstoque.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormFormaPagamento.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormFornecedores.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormCategorias.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormOrcamento.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormPDV.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormPreVenda.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormProdutos.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormRelatorioCompras.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormRelatorioComprasDetalhe.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormRelatorioVendas.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormRelatorioVendas_Status.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormVendas.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.MainForm.resources
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\GenerateResource.read.4.tlog
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.exe
+C:\Users\adilson\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.pdb
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\bin\Debug\P_7GFrota.exe
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\bin\Debug\P_7GFrota.pdb
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormFuncionario.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormClientes.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormCompras.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormCotacao.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormEstoque.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormFormaPagamento.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormFornecedores.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormCategorias.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormOrcamento.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormPDV.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormPreVenda.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormProdutos.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormRelatorioCompras.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormRelatorioComprasDetalhe.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormRelatorioVendas.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormRelatorioVendas_Status.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.FormVendas.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.MainForm.resources
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.exe
+C:\Users\Fortinho\Documents\SharpDevelop Projects\7GFrota\S_7GFrota\P_7GFrota\obj\Debug\P_7GFrota.pdb
